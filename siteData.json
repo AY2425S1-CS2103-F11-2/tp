@@ -60,13 +60,14 @@
         "first-time-user": "First time user",
         "beginner-to-the-software": "Beginner to the software",
         "a-little-bit-familiar-with-the-software": "A little bit familiar with the software",
-        "expert-user": "(Expert user)",
+        "expert-user": "Expert user",
         "use-cases": "Use cases",
         "non-functional-requirements": "Non-Functional Requirements",
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
+        "deleting-a-lesson": "Deleting a lesson",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
