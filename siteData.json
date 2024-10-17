@@ -38,7 +38,6 @@
     },
     {
       "src": "DeveloperGuide.md",
-      "title": "Developer Guide",
       "headings": {
         "tutorease-developer-guide": "TutorEase Developer Guide",
         "acknowledgements": "Acknowledgements",
