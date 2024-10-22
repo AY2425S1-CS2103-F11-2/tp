@@ -206,13 +206,13 @@ with(this){return _c('h3',{attrs:{"id":"product-scope"}},[_v("Product scope"),_c
 with(this){return _c('p',[_c('strong',[_v("Target user profile")]),_v(":")])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("freelance pre-university home tutors")]),_v(" "),_c('li',[_v("has a need to manage a significant number of students, their contacts and relevant information")]),_v(" "),_c('li',[_v("prefer desktop apps over other types")]),_v(" "),_c('li',[_v("can type fast")]),_v(" "),_c('li',[_v("prefers typing to mouse interactions")]),_v(" "),_c('li',[_v("is reasonably comfortable using CLI apps")])])}
+with(this){return _c('ul',[_c('li',[_v("Freelance pre-university home tutors")]),_v(" "),_c('li',[_v("Manages a significant number of students")]),_v(" "),_c('li',[_v("Prefers desktop applications")]),_v(" "),_c('li',[_v("Prefers typing to mouse interactions")]),_v(" "),_c('li',[_v("Is reasonably comfortable using CLI apps")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Value proposition")]),_v(": Our software enhances tutoring efficiency by")])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("simplifying management tasks,")]),_v(" "),_c('li',[_v("reducing scheduling conflicts, and")]),_v(" "),_c('li',[_v("providing a clear overview of classes and finances.")])])}
+with(this){return _c('ul',[_c('li',[_v("Simplifying management tasks")]),_v(" "),_c('li',[_v("Reducing scheduling conflicts")]),_v(" "),_c('li',[_v("Providing a clear overview of classes and finances")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"user-stories"}},[_v("User stories"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#user-stories","onclick":"event.stopPropagation()"}})])}
@@ -371,6 +371,6 @@ with(this){return _c('h3',{attrs:{"id":"saving-data"}},[_v("Saving data"),_c('a'
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing/corrupted data files")]),_v(" "),_c('ol',[_c('li',[_c('em',[_v("{explain how to simulate a missing/corrupted file, and the expected behavior}")])])])]),_v(" "),_c('li',[_c('p',[_c('em',[_v("{ more test cases …​ }")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 22 Oct 2024, 17:03:19 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 22 Oct 2024, 17:07:09 GMT+8]")])])])}
 }];
   
