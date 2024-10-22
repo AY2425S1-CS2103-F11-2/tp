@@ -38,6 +38,7 @@
     },
     {
       "src": "DeveloperGuide.md",
+      "title": "Developer Guide",
       "headings": {
         "tutorease-developer-guide": "TutorEase Developer Guide",
         "acknowledgements": "Acknowledgements",
@@ -45,7 +46,29 @@
         "design": "Design",
         "architecture": "Architecture",
         "ui-component": "UI component",
-        "logic-component": "Logic component"
+        "logic-component": "Logic component",
+        "model-component": "Model component",
+        "storage-component": "Storage component",
+        "common-classes": "Common classes",
+        "implementation": "Implementation",
+        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
+        "proposed-data-archiving": "[Proposed] Data archiving",
+        "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
+        "appendix-requirements": "Appendix: Requirements",
+        "product-scope": "Product scope",
+        "user-stories": "User stories",
+        "first-time-user": "First time user",
+        "beginner-to-the-software": "Beginner to the software",
+        "a-little-bit-familiar-with-the-software": "A little bit familiar with the software",
+        "expert-user": "Expert user",
+        "use-cases": "Use cases",
+        "non-functional-requirements": "Non-Functional Requirements",
+        "glossary": "Glossary",
+        "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
+        "launch-and-shutdown": "Launch and shutdown",
+        "deleting-a-person": "Deleting a person",
+        "deleting-a-lesson": "Deleting a lesson",
+        "saving-data": "Saving data"
       },
       "headingKeywords": {}
     },
@@ -87,6 +110,7 @@
     },
     {
       "src": "UserGuide.md",
+      "title": "User Guide",
       "headings": {
         "tutorease-user-guide": "TutorEase User Guide",
         "quick-start": "Quick start",
