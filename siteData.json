@@ -63,9 +63,13 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
+        "listing-all-contacts": "Listing all contacts",
         "deleting-a-person": "Deleting a person",
+        "adding-a-lesson": "Adding a lesson",
+        "listing-all-lessons": "Listing all lessons",
         "deleting-a-lesson": "Deleting a lesson",
-        "finding-a-lesson": "Finding a lesson"
+        "finding-a-lesson": "Finding a lesson",
+        "clearing-tutorease": "Clearing TutorEase"
       },
       "headingKeywords": {}
     },
