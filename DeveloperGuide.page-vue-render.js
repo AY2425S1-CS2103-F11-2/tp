@@ -416,6 +416,6 @@ with(this){return _c('h3',{attrs:{"id":"clearing-tutorease"}},[_v("Clearing Tuto
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Clearing TutorEase when there are contacts and lessons.")]),_v(" "),_c('ol',[_c('li',[_c('p',[_v("Prerequisites: There are multiple contacts and lessons in the contact list and lesson schedule.")])]),_v(" "),_c('li',[_c('p',[_v("Test case: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clear")]),_c('br'),_v("\nExpected: All contacts and lessons are cleared.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 2:13:14 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 2:49:20 GMT+8]")])])])}
 }];
   
