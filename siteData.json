@@ -64,7 +64,8 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
-        "deleting-a-lesson": "Deleting a lesson"
+        "deleting-a-lesson": "Deleting a lesson",
+        "finding-a-lesson": "Finding a lesson"
       },
       "headingKeywords": {}
     },
